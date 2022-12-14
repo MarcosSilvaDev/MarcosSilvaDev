@@ -1,4 +1,4 @@
-### Olá, eu sou o Marcos Silva, estudante de Sistemas da Informção e desenvolvedor júnior ### 👋
+### Olá, eu sou o Marcos Silva, estudante de Sistemas da Informção e desenvolvedor júnior 👋
 
 * Estudando React.js e Next.js
 * Buscando oportunidades como dev front-end júnior
