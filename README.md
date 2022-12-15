@@ -6,9 +6,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-silva-433202153/)
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSilvaDev&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilvaDev)](https://github.com/anuraghazra/github-readme-stats)
+
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSilvaDev&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso ##
 
