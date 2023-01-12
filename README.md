@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilvaDev)](https://github.com/anuraghazra/github-readme-stats)
 
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSilvaDev&show_icons=true&bg_color=00000000)
+
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSilvaDev&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso ##
