@@ -1,13 +1,7 @@
 ### Olá, eu sou o Marcos Silva, estudante de Sistemas da Informção e desenvolvedor júnior 👋
 
-* Estudando React.js e Next.js
-* Buscando oportunidades como dev front-end júnior
-* Apaixonado por desenvolvimento web
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-silva-433202153/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSilvaDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso ##
 
